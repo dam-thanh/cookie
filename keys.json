@@ -1,7 +1,3 @@
 {
-  "keys": [
-    "VIP-123",
-    "VIP-4456",
-    "ADMIN-999"
-  ]
+  "enabled": true
 }
