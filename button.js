@@ -59,5 +59,15 @@
             setTimeout(() => clearInterval(interval), 20000);
         }
     });
+window.addEventListener("load", function () {
+    createButton();
 
+    if (window.location.href.includes("/home/tasks")) {
+        const interval = setInterval(() => {
+            autoClickTask();
+        }, 2000);
+
+        setTimeout(() => clearInterval(interval), 20000);
+    }
+});
 })();
