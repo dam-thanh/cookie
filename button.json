@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "redirects": {
-    "1-2": { "url": "buh.uk.com", "keyword": "B52CLUB" },
+    "1-2": { "url": "buh.uk.com", "keyword": "" },
     "223-3": { "url": "7344.cn.com", "keyword": "" },
     "232-2": { "url": "gdu.uk.com", "keyword": "" },
     "246-2": { "url": "aanthuys.nl", "keyword": "" },
@@ -66,7 +66,7 @@
     "212-2": { "url": "owtofo.sa.com", "keyword": "" },
     "213-2": { "url": "www.axis.uk.com", "keyword": "" },
     "214-2": { "url": "smartonline.com.mx", "keyword": "" },
-    "2-2": { "url": "verandahaus.de.com", "keyword": "hitclub verandahaus.de.com" },
+    "2-2": { "url": "verandahaus.de.com", "keyword": "" },
     "187-2": { "url": "fzzgcn.za.com", "keyword": "" },
     "167-2": { "url": "mlgeta.za.com", "keyword": "" },
     "220-3": { "url": "j188-casino.app", "keyword": "" },
